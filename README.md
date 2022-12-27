@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Moise NIZEYIMANA</h1>
+<h1 align="center">Hi 👋, I'm by names Moise NIZEYIMANA</h1>
 <h3 align="center">A passionate frontend developer and designer from Rwanda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knmoise&label=Profile%20views&color=0e75b6&style=flat" alt="knmoise" /> </p>
 
-- 🔭 I’m currently working on **FYP**
+- 🔭 I’m currently working as **frontend develper**
 
 - 🌱 I’m currently learning **python & react**
 
