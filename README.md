@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knmoise&label=Profile%20views&color=0e75b6&style=flat" alt="knmoise" /> </p>
 
-- 🔭 I’m currently working as **frontend develper**
+- 🔭 I’m currently working as **full-stack develper**
 
-- 🌱 I’m currently learning **python & react**
-
-- 👯 I’m looking to collaborate on **bus_system_app**
-
+- 🌱 I’m currently learning **new technologies**
+- 
 - 🤝 I’m looking for help with **flutter UI**
 
 - 👨‍💻 Some of my projects are available at [https://knmoise.github.io/Protfolio/](https://knmoise.github.io/Protfolio/)
 
-- 💬 Ask me about **C# DART JS**
-
-- 📫 How to reach me **aubuin0@gmail.com**
+- 📫 How to reach me **+250788238843**
 
 - 📄 Know about my experiences [https://knmoise.github.io/Protfolio/](https://knmoise.github.io/Protfolio/)
 
