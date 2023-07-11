@@ -3,20 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knmoise&label=Profile%20views&color=0e75b6&style=flat" alt="knmoise" /> </p>
 
-- 🔭 I’m currently working as **full-stack develper**
-
+- 🔭 I’m currently working as **Front-end developer**
 - 🌱 I’m currently learning **new technologies**
-- 
 - 🤝 I’m looking for help with **flutter UI**
-
 - 👨‍💻 Some of my projects are available at [https://knmoise.github.io/Protfolio/](https://knmoise.github.io/Protfolio/)
-
 - 📫 How to reach me **+250788238843**
-
-- 📄 Know about my experiences [https://knmoise.github.io/Protfolio/](https://knmoise.github.io/Protfolio/)
-
 - ⚡ Fun fact about me **I always think that everything is possible with personal efforts**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nizeyimanamoise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nizeyimanamoise" height="30" width="40" /></a>
