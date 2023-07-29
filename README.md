@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as **Front-end developer**
 - 🌱 I’m currently learning **new technologies**
 - 🤝 I’m looking for help with **flutter UI**
-- 👨‍💻 Some of my projects are available at [https://knmoise.github.io/Protfolio/](https://knmoise.github.io/Protfolio/)
+- 👨‍💻 Some of my projects are available at [https://knmoise.github.io/Protfolio/](https://nmoise.vercel.app/)
 - 📫 How to reach me **+250788238843**
 - ⚡ Fun fact about me **I always think that everything is possible with personal efforts**
 <h3 align="left">Connect with me:</h3>
