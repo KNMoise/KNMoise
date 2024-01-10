@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N.Moise</h1>
-<h3 align="center">I am a passionate frontend developer hailing from the beautiful country of Rwanda. With a deep love for web & mobile development and design, I have dedicated myself to creating captivating and user-friendly interfaces that not only meet the needs of users but also provide an exceptional online experience.</h3>
+<h3 align="center">I am a passionate  developer hailing from the beautiful country of Rwanda. With a deep love for web & mobile development and design, I have dedicated myself to creating captivating and user-friendly interfaces with perfect backend that not only meet the needs of users but also provide an exceptional online experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knmoise&label=Profile%20views&color=0e75b6&style=flat" alt="knmoise" /> </p>
 
